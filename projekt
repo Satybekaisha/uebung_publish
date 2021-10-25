@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Transform playground</title>
+    <link rel="stylesheet" href="starter.css">
+    <link rel="stylesheet" href="solution.css">
+    
+</head>
+
+<body>
+    <header>
+        <h1>Playground for transformation</h1>
+    </header>
+    <main>
+        <ul>
+            <li>
+                <figure>
+                    <img src="zebras.jpg" alt="zebras">
+                    <figcaption>figure 1</figcaption>
+                </figure>
+            </li>
+            <li>
+                <figure>
+                    <img src="zebras.jpg" alt="zebras">
+                    <figcaption>figure 2</figcaption>
+                </figure>
+            </li>
+            <li>
+                <figure>
+                    <img src="zebras.jpg" alt="zebras">
+                    <figcaption>figure 3</figcaption>
+                </figure>
+            </li>
+            <li>
+                <figure>
+                    <img src="zebras.jpg" alt="zebras">
+                    <figcaption>figure 4</figcaption>
+                </figure>
+            </li>
+            <li>
+                <figure>
+                    <img src="zebras.jpg" alt="zebras">
+                    <figcaption>figure 5</figcaption>
+                </figure>
+            </li>
+            <li>
+                <figure>
+                    <img src="zebras.jpg" alt="zebras">
+                    <figcaption>figure 6</figcaption>
+                </figure>
+            </li>
+            <li>
+                <figure>
+                    <img src="zebras.jpg" alt="zebras">
+                    <figcaption>figure 7</figcaption>
+                </figure>
+            </li>
+            <li>
+                <figure>
+                    <img src="zebras.jpg" alt="zebras">
+                    <figcaption>figure 8</figcaption>
+                </figure>
+            </li>
+            <li>
+                <figure>
+                    <img src="zebras.jpg" alt="zebras">
+                    <figcaption>figure 9</figcaption>
+                </figure>
+            </li>
+            <li>
+                <figure>
+                    <img src="zebras.jpg" alt="zebras">
+                    <figcaption>figure 10</figcaption>
+                </figure>
+            </li>
+        </ul>
+    </main>
+    <footer></footer>
+</body>
+
+</html>
